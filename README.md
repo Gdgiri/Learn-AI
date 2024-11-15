@@ -8,29 +8,29 @@
      - **Artificial Intelligence**: Mimics an **artificial brain**.
      - **Human Intelligence**: Represents the **human brain**.
 
-2. **Purpose of AI**:
+2. Purpose of AI:
    - AI is primarily used for **predictions**. Wherever predictions are needed, AI plays a role.
    - AI serves as an **umbrella term** encompassing various domains and technologies.
    - AI itself does not have a single algorithm; rather, its domains contain specific algorithms.
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Comparison of AI with Human Abilities**:
-| **Human Ability**          | **AI Domain**           |
+### Comparison of AI with Human Abilities:
+| Human Ability              |   AI Domain             |
 |----------------------------|-------------------------|
 | Eye (vision)               | **Computer Vision**     |
 | Brain (thinking/learning)  | **Deep Learning**       |
 | Language (speech/text)     | **Natural Language Processing (NLP)** |
 | Hearing                    | **AI Processors**       |
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Key Topics in AI**:
-1. **Machine Learning (ML)**:
+### Key Topics in AI:
+1. Machine Learning (ML):
    - Works on **number-based predictions**.
-2. **Deep Learning (DL)**:
+2. Deep Learning (DL):
    - Handles **number- and image-based predictions**.
-3. **Natural Language Processing (NLP)**:
+3. Natural Language Processing (NLP):
    - Focuses on **text-based predictions**.
 4. **Time Series Analysis**:
    - Works on **time- and date-based predictions** (e.g., weather forecasting).
