@@ -53,3 +53,9 @@
 2. Weather Forecasting:
    - Short-term (e.g., 1 week) or long-term (e.g., 1 year) weather predictions use **Time Series Analysis**.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The relationship between AI and Python can be understood like this:
+
+- AI involves a lot of complex calculations, much like the calculations done in mathematics.
+- Just as we use a calculator to perform mathematical calculations, Python serves as a powerful tool for AI calculations.
+- In the same way that a calculator is essential for complex math, Python provides the tools and libraries needed to implement and run AI algorithms effectively.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
