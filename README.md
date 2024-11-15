@@ -1,6 +1,6 @@
 
 
-### Understanding Artificial Intelligence (AI one)
+### Understanding Artificial Intelligence (AI)
 
 1. Definition and Opposites:
    - AI stands for **Artificial Intelligence**.
