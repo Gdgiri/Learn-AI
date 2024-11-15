@@ -33,23 +33,23 @@
 3. Natural Language Processing (NLP):
    - Focuses on **text-based predictions**.
 4. **Time Series Analysis**:
-   - Works on **time- and date-based predictions** (e.g., weather forecasting).
+   - Works on time- and date-based predictions (e.g., weather forecasting).
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Difference Between AI and Data Science**:
-- **AI**:
+### Difference Between AI and Data Science:
+- AI:
   - Primarily focuses on **predictions** using various algorithms.
-- **Data Science**:
+- Data Science:
   - Involves **statistics** and manual data analysis. It doesn’t necessarily require predictions.
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Examples of AI in Action**:
-1. **CAPTCHA**:
+### Examples of AI in Action:
+1. CAPTCHA:
    - Text-based CAPTCHA: **NLP**.
    - Number-based CAPTCHA: **ML** or **DL**.
    - Image-based CAPTCHA: **DL**.
-2. **Weather Forecasting**:
+2. Weather Forecasting:
    - Short-term (e.g., 1 week) or long-term (e.g., 1 year) weather predictions use **Time Series Analysis**.
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
